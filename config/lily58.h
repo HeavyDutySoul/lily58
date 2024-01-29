@@ -16,7 +16,7 @@
 #define Z_MUT  &kp C_MUTE
 #define Z_PP   &kp C_PP
 #define Z_PR   &kp C_PREV
-#define Z_FF   &kp C_FF
+#define Z_NX   &kp C_NEXT
 #define CPW    &caps_word
 #define OUT_T  &out OUT_TOG
 #define OUT_U  &out OUT_USB
