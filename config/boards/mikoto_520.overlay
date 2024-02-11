@@ -1,4 +1,4 @@
-#include "arduino_pro_micro_pins.dtsi
+#include "arduino_pro_micro_pins.dtsi"
 
 &flash0 {
         /*
